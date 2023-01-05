@@ -22,3 +22,5 @@ void main(){
   
   getch();
 }
+
+// output -true
